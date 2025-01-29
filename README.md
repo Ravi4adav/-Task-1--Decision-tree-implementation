@@ -36,3 +36,9 @@ Decision Tree Classification model is trained with best parameters using hyperpa
 ## Decision Tree Visualization
 This includes the representation of decision tree making splits based on various rules based on input features. The representation is shown below:
 ![Image](decision-tree-representation.png)
+
+
+## Model Performance
+This section includes various statistics and graphs to represent the accuracy of the model in predictions on test data.
+![Image](decision-tree-confusion-matrix.png)
+![Image](decision-tree-roc-auc-curve.png)
